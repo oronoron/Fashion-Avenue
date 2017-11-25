@@ -86,11 +86,6 @@ Header{
     position: fixed;
 }
 
-Header.home{ 
-    background-color: rgba(255, 255, 255, 0);
-    z-index: 10;
-    position: fixed;
-}
 
 .opaque{
     background-color: #fff;
