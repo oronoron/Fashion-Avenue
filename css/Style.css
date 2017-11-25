@@ -273,7 +273,7 @@ header a{
     text-align: center;
     height: 450px;
     width: 100%;
-    background-image: url('imgs/hero_cover.png');
+    background-image: src('imgs/hero_cover.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -290,7 +290,7 @@ header a{
     text-align: center;
     height: 700px;
     width: 100%;
-    background-image: url('imgs/home_cover.png');
+    background-image: src('imgs/home_cover.png');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: 0 45px;
